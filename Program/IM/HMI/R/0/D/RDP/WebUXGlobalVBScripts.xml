@@ -1,0 +1,8 @@
+<WebUXGlobalVBScripts>
+  <Information Version="14.0" Company="SIEMENS AG" Creator="SIEMENS AG" />
+  <ScriptPath>C:\Users\FA\Desktop\Program\IM\HMI\R\0\D\HMI_7I9N\SCRIPTLIB\</ScriptPath>
+  <Create>
+    <ScriptName>add_data_M001</ScriptName>
+  </Create>
+  <Delete />
+</WebUXGlobalVBScripts>

@@ -1,0 +1,14 @@
+2020-03-31 11:20:56.604 [p=26508, t=0x6b54] General: Project opened, dsncs="CC_HMI_7I9N_20_03_31_01_45_07" path="\\GJRDS\WinCC_Project_HMI_7I9N_2\HMI_7I9N.mcp"
+2020-03-31 11:20:56.701 [p=26508, t=0x6b54] Sync: No redundant partner configured
+2020-03-31 11:20:56.705 [p=26508, t=0x6b54] Sync: Loading redundancy configuration
+2020-03-31 11:20:56.888 [p=26508, t=0x6b54] Sync: Redundancy is not activated
+2020-03-31 11:20:56.895 [p=26508, t=0x6b54] General: Disconnecting configuration.
+2020-03-31 11:20:56.899 [p=26508, t=0x6b54] General: Connecting configuration.
+2020-03-31 11:20:57.156 [p=26508, t=0x6b54] General: Disconnecting configuration.
+2020-03-31 11:20:57.160 [p=26508, t=0x6b54] Failed to load configuration data.
+
+2020-03-31 11:20:57.164 [p=26508, t=0x6b54] General: Error on performing actions after project opening, hr=0x8004620f
+2020-03-31 11:20:57.166 [p=26508, t=0x6b54] General: Start closing the project...
+2020-03-31 11:20:57.168 [p=26508, t=0x6b54] General: Start deactivating the project...
+2020-03-31 11:20:57.171 [p=26508, t=0x6b54] CUAServer::DisconnectLicenseServices
+2020-03-31 11:20:57.173 [p=26508, t=0x6b54] General: Disconnecting configuration.
